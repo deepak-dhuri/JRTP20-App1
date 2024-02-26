@@ -1,0 +1,2 @@
+success = Data saved successfully
+error = some error eccoured
